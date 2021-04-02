@@ -13,14 +13,14 @@
 
 🇰-nives are Bash functions to increase your productivity with kubernetes kubectl:   
 | <!-- --> | <!-- --> | 
----  |  ---
+--------------- |  ---------------
 ✔️ **k-nives** | List 🇰-nives tools
 ✔️ **kn**      | Shows avaiable or set cluster namespace - A default '--namespace NAMESPACE' for kubectl (context)    
 ✔️ **kp**      | List cluster pods   
 ✔️ **kl**      | Shows pod containers log   
-FIRST LAUNCH:  | **2021-04-02**    
-LAST REVISION: | **2021-04-02**    
-VERSION:       | **1.0**
+FIRST LAUNCH:   | **2021-04-02**    
+LAST REVISION:  | **2021-04-02**    
+VERSION:        | **1.0**
 
 This project is maintained by [Sthenley Macedo ](https://linkedin.com/in/sthenley "LinkedIN profile") under [GNU GPL v3](/LICENSE "Read LICENSE file") license.     
     
@@ -81,7 +81,7 @@ You can edit `kn` function to reflect your own namespace aliases
 If you need, edit this variables at top of `.bash_k-nives`:    
 
 Variable  |  Description
----  |  ---
+----------------------------- |  -----------------------------
 `K_NIVES_LIGHT=false`         | Change it to `true` if you have a “light backgrounded” environment. Works only if you have kubecolor
 `K_NIVES_DEPLOYMENT=true`     | Enable/Disable app deployment name at 🇰-nives kp output     
 `K_NIVES_TAIL=10`             | Number of lines for 🇰-nives kl 't' flag
