@@ -54,7 +54,7 @@ Some are native kubectl features - But in a quick/easy mode 😉
 > **HINT!**
 > InstALL them!    
     
-Quickly for recommended:    
+Quickly (but prefer to refer to the original documentation for each tool):    
 ```bash
 sudo apt-get -y install curl ccze golang $(command -v awk &> /dev/null || echo awk)    
 sudo apt-get -y install kubecolor || go install github.com/dty1er/kubecolor/cmd/kubecolor@latest    
