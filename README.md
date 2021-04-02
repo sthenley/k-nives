@@ -6,7 +6,7 @@
 ![Issues](https://shields.io/github/issues/sthenley/k-nives)
 ![Last commit](https://shields.io/github/last-commit/sthenley/k-nives)
 ![Bash](https://img.shields.io/badge/linux-bash-blue)
-![Version](https://img.shields.io/github/v/k-nives/sthenley/k-nives)
+![Version](https://img.shields.io/github/v/tag/sthenley/k-nives)
 </P>
 
 ## About    
